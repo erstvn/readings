@@ -20,10 +20,10 @@ In this repository, I highlight the readings I do for my studies and share them 
 
 *IPython and Jupyter: provide computational environments for data scientists using Python*
 
-NumPy: includes the ndarray for efficient storage and manipulation of dense data arrays in Python
+*NumPy: includes the ndarray for efficient storage and manipulation of dense data arrays in Python*
 
-Pandas: features the DataFrame for efficient storage and manipulation of labeled/columnar data in Python
+*Pandas: features the DataFrame for efficient storage and manipulation of labeled/columnar data in Python*
 
-Matplotlib: includes capabilities for a flexible range of data visualizations in Python
+*Matplotlib: includes capabilities for a flexible range of data visualizations in Python*
 
-Scikit-Learn: for efficient and clean Python implementations of the most important and established machine learning algorithms*
+*Scikit-Learn: for efficient and clean Python implementations of the most important and established machine learning algorithms*
