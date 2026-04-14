@@ -1,4 +1,4 @@
-# Lectures
+# Readings
 
 In this repository, I highlight the readings I do for my studies and share them with anyone interested in learning.
 
